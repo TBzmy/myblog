@@ -1,29 +1,45 @@
-THIS REPO IS NOT SUPPORTED ANYMORE!
-DON'T NEED CREATE ISSUE HERE!
-NEXT MOVED HERE: https://github.com/theme-next/hexo-theme-next
+<!--
+IMPORTANT: Please follow the template to create a new issue.
+重要：請依照該模板來提交。
+-->
 
-NexT is rebased into organization repo https://github.com/theme-next
-If you want new feature, fix, or support, create new issue in NexT v6.x repo (desirable in English).
+## I want to create a new issue <!-- 我想要建立一個新的issue --> 
 
-There is instructions
-on English: https://github.com/theme-next/hexo-theme-next/blob/master/docs/UPDATE-FROM-5.1.X.md
-or Chinese: https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/UPDATE-FROM-5.1.X.md
-how to update from v5.1.x to v 6.x
+<!-- Check all with "x" especially FAQ & Documentation!! (使用 "x" 選擇) -->
+<!-- 請確認是否都已經翻閱過如下的資料, 尤其是安裝文檔！！ -->
+- [] Yes, I have read [Hexo Docs page](https://hexo.io/docs/), especially [Templates](https://hexo.io/docs/templates.html), [Variables](https://hexo.io/docs/variables.html), [Helpers](https://hexo.io/docs/helpers.html) and [Troubleshooting](https://hexo.io/docs/troubleshooting.html).
+- [] Yes, I have read [Hexo-theme-butterfly Documentation](https://jerryc.me/posts/21cfbf15/).
+- [] And yes, I already searched for current [issues](https://github.com/jerryc127/hexo-theme-butterfly/issues?utf8=%E2%9C%93&q=is%3Aissue) and this did not help me.
 
-You also may read this for details: https://github.com/iissnan/hexo-theme-next/issues/2061
+## Butterfly Information
 
-***
+<!-- Butterfly的版本 -->
+<!-- 檢視主題的package.json -->
+**Butterfly Version:**
 
-该工程已不再提供任何支持与维护！
-请大家不要再在这里创建issue了！
-NexT主题仓库已移动到此处: https://github.com/theme-next/hexo-theme-next
+<!-- Windows/macOS/Linux/Android/iOS -->
+**Platform:**
 
-NexT已经rebase到theme-next组织(https://github.com/theme-next) 的repo中.
-如果你想要求新的特性，bug修复或其他支持，请在新的v6.x的仓库下创建新issue（最好用英文，谢谢）
+<!-- Chrome/Safari/FireFox/.. -->
+**Browser:**
 
+## Expected behavior <!-- (預期行為) -->
 
-英文文档: (https://github.com/theme-next/hexo-theme-next/blob/master/docs/UPDATE-FROM-5.1.X.md)
-或中文文档: (https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/UPDATE-FROM-5.1.X.md)
-如何从 v5.1.x 更新到 v 6.x
+## Actual behavior <!-- (實際行為) -->
 
-相关细节参考这里: https://github.com/iissnan/hexo-theme-next/issues/2061
+<!-- Please give me the screenshots to locate the issue -->
+<!-- 請儘量提供截圖來定位問題 -->
+
+## Steps to reproduce the behavior <!-- (重現步驟) -->
+
+## Feature Request
+
+<!-- If you have any ideas of theme-butterfly, please write down here and we can have a discussion. -->
+<!-- 如果你有任何關於Butterfly的功能方面的想法，可以在這個部分裡寫下來我們一起討論 -->
+
+---
+
+<!--
+Love hexo-theme-butterfly? Please consider starring the repo to support it!
+喜歡 hexo-theme-butterfly嗎？ 考慮一下給它點個star來支援它吧！
+-->

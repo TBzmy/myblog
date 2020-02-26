@@ -1,99 +1,103 @@
-title:
-  archive: Archive
-  category: Category
-  tag: Tag
-  schedule: Schedule
-
-author: Author
-
-menu:
-  home: Home
-  archives: Archives
-  categories: Categories
-  tags: Tags
-  about: About
-  search: Search
-  schedule: Schedule
-  sitemap: Sitemap
-  commonweal: Commonweal 404
-
 sidebar:
-  overview: Overview
-  toc: Table of Contents
-
-post:
-  created: Post created
-  modified: Post modified
-  sticky: Sticky
-  posted: Posted on
-  in: In
-  more: more
-  read_more: Read more
-  untitled: Untitled
-  toc_empty: This post does not have a Table of Contents
-  visitors: Visitors
-  wordcount: Words count in article
-  min2read: Reading time
-  totalcount: Site words total count
-  copyright:
-    author: Post author
-    link: Post link
-    license_title: Copyright Notice
-    license_content: 'All articles in this blog are licensed under
-      <a href="%s" rel="external nofollow" target="_blank">%s</a> unless stating additionally.'
-
-page:
-  totally: Totally
-  tags: tags
+  catalog: Catalog
+  have_read: You've read
 
 footer:
-  powered: "Powered by %s"
+  driven: Driven
   theme: Theme
 
-counter:
-  tag_cloud:
-    zero: No tags
-    one: 1 tag in total
-    other: "%d tags in total"
+copy:
+  success: Copy successfully
+  error: Copy error
+  noSupport: The browser does not support
 
-  categories:
-    zero: No categories
-    one: 1 category in total
-    other: "%d categories in total"
+page:
+  articles: Articles
+  tag: Tag
+  category: Category
+  archives: Archives
 
-  archive_posts:
-    zero: No posts.
-    one: 1 post.
-    other: "%d posts in total."
+sticky: Sticky
+no_title: No title
+archives: Archives
 
-state:
-  posts: posts
-  pages: pages
-  tags: tags
-  categories: categories
+post:
+  created: Created
+  updated: Updated
+  wordcount: Word count
+  min2read: "Reading time: %s min"
+  page_pv: Post View
+  comments: comments
+  copyright:
+    author: Author
+    link: Link
+    copyright_notice: Copyright Notice
+    copyright_content: 'All articles in this blog are licensed under <a href="%s">%s</a> unless stating additionally.'
 
-search:
-  placeholder: Searching...
+search: Search
+algolia_search:
+  input_placeholder: Search for Posts
+  hits_empty: "We didn't find any results for the search: ${query}."
+  hits_stats: "${hits} results found in ${time} ms"
 
-cheers:
-  um: Um..
-  ok: OK
-  nice: Nice
-  good: Good
-  great: Great
-  excellent: Excellent
+local_search:
+  label: Local search
+  input_placeholder: Search for Posts
+  hits_empty: "We didn't find any results for the search: ${query}"
+  powered_by: Powered by
 
-keep_on: Keep on posting.
+pagination:
+  prev: Previous Post
+  next: Next Post
 
-symbol:
-  comma: ', '
-  period: '. '
-  colon: ':'
+comment: Comment
 
-reward:
-  donate: Donate
-  wechatpay: WeChat Pay
-  alipay: Alipay
-  bitcoin: Bitcoin
+aside:
+  articles: Articles
+  tags: Tags
+  categories: Categories
+  card_announcement: Announcement
+  card_categories: Categories
+  card_tags: Tags
+  card_archives: Archives
+  card_recent_post: Recent Post
+  card_bookmark: Add to bookmark
+  card_webinfo:
+    headline: Info
+    article_name: Article
+    runtime_name: Run time
+    site_uv_name: UV
+    site_pv_name: PV
 
-gitmentbutton: Show comments from Gitment
+donate: Donate
+share: Share
+bookmark:
+  title: Bookmark
+
+rightside:
+  readmode_title: Read Mode
+  font_plus_title: Increase font size
+  font_minus_title: Decrease font size
+  translate_title: Traditional Chinese and Simplified Chinese Conversion
+  night_mode_title: Dark Mode
+  back_to_top: Back to top
+  toc: Table of Contents
+  scroll_to_comment: Scroll to comment
+  setting: Setting
+
+runtime_unit: days
+
+copy_copyright:
+  author: Author
+  link: Link
+  source: Source
+  info: Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
+
+Snackbar:
+  bookmark:
+    message_prev: Press
+    message_next: to bookmark this page
+  chs_to_cht: Traditional Chinese Activated Manually
+  cht_to_chs: Simplified Chinese Activated Manually
+  day_to_night: Light Mode Activated Manually
+  night_to_day: Dark Mode Activated Manually
